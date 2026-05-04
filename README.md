@@ -12,7 +12,6 @@ I'm Ruby Larson, a student at Brigham Young University-Idaho interested in Softw
 ## Technologies and Tools
 
 - Proficient in: Python, C#, HTML, CSS, JavaScript, MySQL, NodeJS, NodeMon, Express
-- Skills: Proficient in using Microsoft Suit, Git, VS Code.
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" **alt="Csharp" width="40" height="40"/>&nbsp;
@@ -24,10 +23,11 @@ I'm Ruby Larson, a student at Brigham Young University-Idaho interested in Softw
  <img src="https://github.com/devicons/devicon/blob/master/icons/nodemon/nodemon-original.svg" title="NodeMon" alt="NodeMon" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
 </div>
-- Skills: Proficient in using Microsoft Suit, Git, VS Code.
+- Skills: Proficient in using Microsoft Suit, Git, VS Code, PostgreSQL.
 <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="NodeMon" alt="NodeMon" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="NodeMon" alt="NodeMon" width="40" height="40"/>
 </div>
 
 ## Let's Connect!
