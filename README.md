@@ -16,7 +16,8 @@ I'm Ruby Larson, a student at Brigham Young University-Idaho interested in Softw
 
 ## Let's Connect!
 
-- Here is my [LinkedIn](https://www.linkedin.com/in/ruby-larson-244683299/) profile
+- [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]()
+ Here is my [LinkedIn](https://www.linkedin.com/in/ruby-larson-244683299/) profile
 - Here is my [Handshake](https://byui.joinhandshake.com/profiles/793m3v) profile
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
