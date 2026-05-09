@@ -28,7 +28,7 @@ I'm Ruby Larson, a student at Brigham Young University-Idaho interested in Softw
 - Skills: Proficient in using Microsoft Suit, Git, VS Code, PostgreSQL.
   
 <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="NodeMon" alt="NodeMon" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="NodeMon" alt="NodeMon" width="40" height="40"/>
 </div>
