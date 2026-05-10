@@ -6,7 +6,7 @@ I'm Ruby Larson, a student at Brigham Young University-Idaho interested in Softw
 
 ## About Me
 
-- I'm currently learning fullstack development using Node, Express, Svelte, Javascript, Typescript, C#, Python, and C++.
+- I'm currently learning fullstack development using Node, Express, Svelte, JavaScript, TypeScript, C#, Python, and C++.
 - My goals are to learn and grow in my coding and projects.
 
 ## Technologies and Tools
